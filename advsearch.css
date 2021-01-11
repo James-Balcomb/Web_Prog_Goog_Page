@@ -1,0 +1,31 @@
+
+/* 
+    Created on : Jan 9, 2021, 10:00:32 AM
+    Author     : James
+*/
+#header {
+    height: 75px;
+    background-color: lightgrey;
+}
+
+#headertext{
+    color: red;
+    font-weight: bold;
+    border-bottom: solid;
+}
+
+#form{
+    position:absolute;
+    left:200px;
+    width: 900px;
+}
+
+#params{
+    
+    width:900px;
+    float: right;
+    
+}
+
+#input {float: right;
+        height: 25px;}

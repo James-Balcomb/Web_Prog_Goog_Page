@@ -1,0 +1,77 @@
+
+/* 
+    Created on : Jan 7, 2021, 11:23:11 AM
+    Author     : James
+*/
+
+
+#option1{
+    width: 50%;
+    float: left;
+    cursor: pointer;
+   }
+
+#option2{
+    width: 50%;
+    float:right;
+    cursor: pointer;
+    }
+
+#advoptions{
+    float: right;
+    width: 220px;
+    height: 30px;
+    }
+
+#form {
+    position:absolute;
+    top: 125px;
+    left: 475px;
+    margin: 0px;
+    width:500px;
+    height:250px;
+    margin:auto;
+    padding: 25px;
+}
+
+#image {
+        text-align: center;
+    
+}
+
+#search_area{
+    
+    padding: 25px;
+}
+#input {
+    width:99%;
+    height: 40px;
+    border:solid;
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: lightgray
+   
+    
+    
+}
+
+#submit {
+    width: 125px;
+    height: 35px;
+    margin:auto;
+    background-color: white;
+    border:solid;
+    border-color: white;
+    cursor: pointer;
+   
+    
+}
+
+#box{
+    margin:auto;
+    text-align: center;
+    padding:10px;
+
+}
+
+
